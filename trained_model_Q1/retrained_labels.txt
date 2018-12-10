@@ -1,0 +1,2 @@
+inlier train
+outlier train
